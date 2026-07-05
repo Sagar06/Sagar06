@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in Learning new technologies
 - 🌱 Aspiring AI with Full stack development
-- 📫 How to reach me : https://www.linkedin.com/in/sagar-waddankeri
+- 📫 How to reach me : https://www.linkedin.com/in/sagar-waddenkeri
 - My portfolio: https://sagarwaddankeri.netlify.app
 
 <!---
